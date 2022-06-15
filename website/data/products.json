@@ -1,0 +1,44 @@
+[{
+    "id":1,
+    "img":"images/thailan.jpg",
+    "name":"TOUR CAMPUCHIA: SIEM REAP - PHNOM PENH",
+    "time":"4 ngày 3 đêm",
+    "departure":"4/6/2022",
+    "price":"6,790,000"
+},{
+    "id":2,
+    "img":"images/UcUc.jpg",
+    "name":"TOUR ÚC (AUSTRALIA) SYDNEY MELBOURNE HÈ 2022",
+    "time":"6 Ngày 5 Đêm",
+    "departure":"4/6/2022",
+    "price":"48,990,000"
+},{
+    "id":3,
+    "img":"images/HanoiHanoi.jpg",
+    "name":"TOUR DU LỊCH MIỀN BẮC 4 NGÀY 3 ĐÊM: HÀ NỘI SAPA",
+    "time":"4 ngày 3 đêm",
+    "departure":"4/6/2022",
+    "price":"3,490,000"
+},{
+    "id":4,
+    "img":"images/ChuaHuongHuong.jpg",
+    "name":"TOUR DU LỊCH MIỀN BẮC 5 NGÀY 4 ĐÊM: HÀ NỘI BÁI ĐÍNH TRÀNG AN VỊNH HẠ LONG YÊN TỬ CHÙA HƯƠNG",
+    "time":"5 NGÀY 4 ĐÊM",
+    "departure":"4/6/2022",
+    "price":"6,790,000"
+},{
+    "id":5,
+    "img":"images/thailan.jpg",
+    "name":"TOUR DU LỊCH MIỀN BẮC 4 NGÀY 3 ĐÊM: HÀ NỘI BÁI ĐÍNH TRÀNG AN VỊNH HẠ LONG YÊN TỬ",
+    "time":"4 NGÀY 3 ĐÊM",
+    "departure":"4/6/2022",
+    "price":"4,090,000"
+},{
+    "id":6,
+    "img":"images/yentu.jpg",
+    "name":"TOUR DU LỊCH MIỀN BẮC 3 NGÀY 2 ĐÊM: HÀ NỘI BÁI ĐÍNH TRÀNG AN VỊNH HẠ LONG YÊN TỬ",
+    "time":"3 NGÀY 2 ĐÊM",
+    "departure":"4/6/2022",
+    "price":"3,590,000"
+}
+]
